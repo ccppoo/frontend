@@ -19,7 +19,7 @@
     "preview": "vite preview",
     "https-preview": "serve dist",
     "prepare": "husky install",
-    "test": "echo \"씨발!!!\""
+    "test": "echo \"test\""
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",
